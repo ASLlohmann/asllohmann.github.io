@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Newsletter
   - scope:
       path: ""
-      type: teaching
+      type: Newsletter
     values:
       layout: single
       author_profile: true
