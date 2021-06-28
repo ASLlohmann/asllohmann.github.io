@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Newsletter
-  - scope:
-      path: ""
-      type: newsletter
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
