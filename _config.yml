@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexandre Lohmann"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/ASLlohmann/asllohmann.github.io/blob/master/Photo.jpg"
   bio              : "Economiste"
   location         : "São paulo"
   employer         :
