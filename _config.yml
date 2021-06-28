@@ -212,7 +212,7 @@ defaults:
   # _Newsletter
   - scope:
       path: ""
-      type: Newsletter
+      type: pages
     values:
       layout: single
       author_profile: true
