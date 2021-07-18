@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Alexandre Lohmann"
-  avatar           : "Photo.png"
+  avatar           : "https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/Photo.jpg?raw=true"
   bio              : "Economiste"
   location         : "São Paulo, Brésil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
