@@ -9,8 +9,10 @@ tags:
   - Inflation
   - États-Unis
 ---
+<div style="text-align: right"> your-text-here </div>
 
-<p style='text-align: justify;'>Cette semaine, nous allons faire un voyage vers les États-Unis. L’indice des prix au consommateur a augmenté de 0.9% en Juin (variation mensuelle), portant le taux à 5.4% en glissement annuel - un résultat largement supérieur à celui espéré par les économistes (0.5% mensuel et 4.9% interannuel).</p>
+
+<div style="text-align: right"> Cette semaine, nous allons faire un voyage vers les États-Unis. L’indice des prix au consommateur a augmenté de 0.9% en Juin (variation mensuelle), portant le taux à 5.4% en glissement annuel - un résultat largement supérieur à celui espéré par les économistes (0.5% mensuel et 4.9% interannuel).</div>
 
 <p style='text-align: justify;'>L’inflation annuelle a été portée par les prix de l’énergie (+24.5%) et des voitures d’occasion (+45.2%), ces deux hausses combinées représentant respectivement 27.51% et  21.11% de l’augmentation totale. Les défenseurs du caractère « transitoire » de l’inflation U.S oublient un peu vite que le taux d’inflation excluant l’énergie et les voitures d’occasion correspondait à 5.28% en variation annualisée en Juin.</p>
 
