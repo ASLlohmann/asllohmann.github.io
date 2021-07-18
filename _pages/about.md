@@ -13,7 +13,7 @@ Bonjour à tous,
 
 J’ai décidé de réinvestir le débat franco-européen en publiant cette newsletter hebdomadaire. </br>
 
-La newsletter est gratuite mais vous pouvez nous soutenir en nous versant quelques « cafés » en cliquant sur ce lien. </br>
+La newsletter est gratuite mais vous pouvez nous soutenir en nous versant quelques « cafés » en cliquant sur ce lien. </br></p>
 
 [![Buy me a coffee](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/bmc.jpeg?raw=true)](https://www.buymeacoffee.com/AlexSebLohmann)
 
