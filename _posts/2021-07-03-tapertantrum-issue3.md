@@ -22,12 +22,12 @@ tags:
 
 <p style='text-align: justify;'>Dans un contexte où les décideurs européens ont commencé ce lundi un débat sur la fin du programme de politique monétaire actionné dans le cadre de la pandémie (PEPP) , la pression de la part des « faucons » sur la politique monétaire européenne sera probablement beaucoup plus forte d’ici quelques mois.</p>
 
-![Graphique 1](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/9e60765ff5764bf6c0f0968c21ccbe2c999b437f/_posts/images/Figure_1.svg)
+![Graphique 1](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/master/_posts/images/Figure_1.svg)
 
 <p style='text-align: justify;'>Conclusion : Le ralentissement de l’inflation en Allemagne est une fausse bonne nouvelle, il est fort probable que l’inflation au consommateur accélère de nouveau, poussée par un effet de base et dépasse ainsi le scénario pessimiste de 4% de la Bundesbank. Un pression supplémentaire pour la fin du Quantitative Easing est à attendre de la part de la Bundesbank.</p>
 
 
-![Graphique 2](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/9e60765ff5764bf6c0f0968c21ccbe2c999b437f/_posts/images/Figure_2.svg)
+![Graphique 2](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/master/_posts/images/Figure_2.svg)
 
 ##### Cette newsletter est publiée gratuitement mais il est possible de nous soutenir en nous laissant quelques pourboires (2€...) en cliquant sur ce lien sécurisé. __Votre soutien est important pour nous permettre d’inscrire ce projet dans le temps long.__ 
 
