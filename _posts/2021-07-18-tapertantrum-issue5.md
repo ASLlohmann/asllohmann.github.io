@@ -9,8 +9,6 @@ tags:
   - Inflation
   - États-Unis
 ---
-<div style="text-align: right"> your-text-here </div>
-
 
 <div style="text-align: right"> Cette semaine, nous allons faire un voyage vers les États-Unis. L’indice des prix au consommateur a augmenté de 0.9% en Juin (variation mensuelle), portant le taux à 5.4% en glissement annuel - un résultat largement supérieur à celui espéré par les économistes (0.5% mensuel et 4.9% interannuel).</div>
 
