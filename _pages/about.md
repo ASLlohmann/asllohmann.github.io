@@ -10,7 +10,7 @@ redirect_from:
 
 
 Bonjour à tous, 
-<div style="text-align: justify">  Je suis économiste français basé au Brésil et spécialisé dans les prévisions. D’après le journal <a href="#">http://broadcast.com.br/cadernos/financeiro/?id=NmNCdDh6M1YwTjhDRkIyelhKUW1kUT09</a> (équivalent du Figaro brésilien),  j’ai été l’un des premiers économistes du pays a identifier le choc des matières premières à partir de l’été 2020 et cela m’a valu de recevoir le prix de 3ème meilleure prévisionniste pour l’inflation générale des prix de la part de la Banque Centrale du Brésil en 2020. </div></br>
+<div style="text-align: justify">  Je suis économiste français basé au Brésil et spécialisé dans les prévisions. D’après le journal <a href="Estadao">http://broadcast.com.br/cadernos/financeiro/?id=NmNCdDh6M1YwTjhDRkIyelhKUW1kUT09</a> (équivalent du Figaro brésilien),  j’ai été l’un des premiers économistes du pays a identifier le choc des matières premières à partir de l’été 2020 et cela m’a valu de recevoir le prix de 3ème meilleure prévisionniste pour l’inflation générale des prix de la part de la Banque Centrale du Brésil en 2020. </div></br>
 
 
 J’ai décidé de réinvestir le débat franco-européen en publiant cette newsletter hebdomadaire. </br>
