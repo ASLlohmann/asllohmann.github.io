@@ -10,11 +10,10 @@ tags:
   - États-Unis
 ---
 
-<p style="text-align: right"> Cette semaine, nous allons faire un voyage vers les États-Unis. L’indice des prix au consommateur a augmenté de 0.9% en Juin (variation mensuelle), portant le taux à 5.4% en glissement annuel - un résultat largement supérieur à celui espéré par les économistes (0.5% mensuel et 4.9% interannuel).</br>
+<p style="text-align: justify"> Cette semaine, nous allons faire un voyage vers les États-Unis. L’indice des prix au consommateur a augmenté de 0.9% en Juin (variation mensuelle), portant le taux à 5.4% en glissement annuel - un résultat largement supérieur à celui espéré par les économistes (0.5% mensuel et 4.9% interannuel).</p>
 
 <p style='text-align: justify;'>L’inflation annuelle a été portée par les prix de l’énergie (+24.5%) et des voitures d’occasion (+45.2%), ces deux hausses combinées représentant respectivement 27.51% et  21.11% de l’augmentation totale. Les défenseurs du caractère « transitoire » de l’inflation U.S oublient un peu vite que le taux d’inflation excluant l’énergie et les voitures d’occasion correspondait à 5.28% en variation annualisée en Juin.</p>
 
-</br>
 Et maintenant ? Il est probable que la hausse des matières premières continue d’être repassée dans les prix au consommateur tout au long de 2021 tandis que la situation de sècheresse intense dans l’ouest américain devrait limiter le ralentissement des prix de l’alimentation et de l’énergie. Fin 2021, le risque d’un nouvel événement climatique du type « la Niña»  (probabilité de 66% d’après la NOAA - agence nationale du climat américain) devrait, s’il se concrétisait, exercer une pression à la hausse sur les matières premières agricoles et sur le minerai de fer au moins au long des premiers mois de 2022. </br>
 </br>
 De plus, il est important de mentionner que, contrairement à l’Union européenne, le cout du logement représente aux USA une partie importante de l’IPC (31.37%). Dans un contexte de forte hausse des prix de l’immobilier, le logement devrait  être un support pour l’indice des prix au consommateur même une fois que le choc des matières premières sera terminé et participera d’un « effet de second tour » de l’inflation.
