@@ -12,6 +12,9 @@ redirect_from:
 <p>Bonjour à tous, </p>
 <p style="text-align: justify">  Economiste français basé au Brésil et spécialisé dans les prévisions. D’après le journal Estadao/Broadcast (équivalent du Figaro brésilien),  j’ai été l’un des premiers économistes du pays a identifier le choc des matières premières à partir de l’été 2020 et cela m’a valu de recevoir le prix de 3ème meilleur prévisionniste pour l’inflation générale des prix de la part de la Banque Centrale du Brésil en 2020.</p>
 
+![Graphique 1](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/_pages/Top5_1.png)
+
+
 <p style="text-align: justify"> J’ai décidé de réinvestir le débat franco-européen en publiant cette newsletter hebdomadaire.</p>
 
 <p style="text-align: justify"> La newsletter est gratuite mais vous pouvez nous soutenir en nous versant quelques « cafés » en cliquant sur ce lien.</p>
