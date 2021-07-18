@@ -18,7 +18,7 @@ redirect_from:
 
 
 [![Buy me a coffee](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/bmc.jpeg?raw=true)](https://www.buymeacoffee.com/AlexSebLohmann)
-<p style="text-align: justify">  Un remerciement spécial à Ana Paula Tavares da Fonseca pour l’aide qu’elle me fournit en terme de code/programmation.</p>
+<p style="text-align: justify">  Un remerciement spécial à Ana Paula Tavares da Fonseca son aide concernant le code/programmation.</p>
 
 
 **Alexandre Lohmann**
