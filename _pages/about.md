@@ -10,7 +10,7 @@ redirect_from:
 
 
 Bonjour à tous, 
-<div style="text-align: right">  Je m’appelle Alexandre Lohmann, je suis économiste français basé au Brésil et spécialisé dans les prévisions. D’après le journal Estadao (équivalent du Figaro brésilien),  j’ai été l’un des premiers économistes du pays a identifier le choc des matières premières à partir de l’été 2020 et cela m’a valu de recevoir le prix de 3ème meilleure prévisionniste pour l’inflation générale des prix de la part de la Banque Centrale du Brésil en 2020. </div>
+<div style="text-align: justify">  Je m’appelle Alexandre Lohmann, je suis économiste français basé au Brésil et spécialisé dans les prévisions. D’après le journal Estadao (équivalent du Figaro brésilien),  j’ai été l’un des premiers économistes du pays a identifier le choc des matières premières à partir de l’été 2020 et cela m’a valu de recevoir le prix de 3ème meilleure prévisionniste pour l’inflation générale des prix de la part de la Banque Centrale du Brésil en 2020. </div>
 
 J’ai décidé de réinvestir le débat franco-européen en publiant cette newsletter hebdomadaire. </br>
 
