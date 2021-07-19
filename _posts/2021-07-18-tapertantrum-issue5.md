@@ -22,7 +22,7 @@ tags:
 
 <p style='text-align: justify;'>En avril dernier, j’avais alerté sur le risque inflationniste aux Etats-Unis alors que l’enquête trimestrielle de la Federal Reserve (SPF-  Survey of Professional Forecasters) prévoyait une inflation de l’ordre de 2.2% en moyenne en 2021. De mon côté, j’estimais, avec un simple modèle autorégressif (ARIMA), un scénario moins optimiste que le consensus. Finalement, les données réelles se sont révélées pour le moment plus mauvaises que mon scénario le plus pessimiste calculé à partir d’une prévision naïve (stabilité de l’inflation jusqu’à la fin de l’année). (Graphique 1 – Prévision 1 « ARIMA » : scénario optimiste, Prévision 2 « naïve » : scénario pessimiste).</p>
 
-{% include_relative https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/master/_posts/images/index.html}
+<iframe>{% include_relative https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/master/_posts/images/index.html}</iframe>
 
 ![Graphique 1](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/9e60765ff5764bf6c0f0968c21ccbe2c999b437f/_posts/images/Figure_1.svg)
 
