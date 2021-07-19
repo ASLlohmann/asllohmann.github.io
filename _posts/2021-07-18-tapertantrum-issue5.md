@@ -22,8 +22,6 @@ tags:
 
 <p style='text-align: justify;'>En avril dernier, j’avais alerté sur le risque inflationniste aux Etats-Unis alors que l’enquête trimestrielle de la Federal Reserve (SPF-  Survey of Professional Forecasters) prévoyait une inflation de l’ordre de 2.2% en moyenne en 2021. De mon côté, j’estimais, avec un simple modèle autorégressif (ARIMA), un scénario moins optimiste que le consensus. Finalement, les données réelles se sont révélées pour le moment plus mauvaises que mon scénario le plus pessimiste calculé à partir d’une prévision naïve (stabilité de l’inflation jusqu’à la fin de l’année). (Graphique 1 – Prévision 1 « ARIMA » : scénario optimiste, Prévision 2 « naïve » : scénario pessimiste).</p>
 
-![Graphique 1](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/_posts/images/index.html)
-
 ![Graphique 1](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/9e60765ff5764bf6c0f0968c21ccbe2c999b437f/_posts/images/Figure_1.svg)
 
 <p style='text-align: justify;'>Il était grand temps de mettre ces prévisions à jour. En utilisant une nouvelle fois un modèle ARIMA sur les données non ajustées, j’obtiens une inflation mensuelle moyenne de l’ordre de 0.247% sur la période 2021m07-2022 (un chiffre loin d’être extravagant). Dans un tel scénario (conservateur) l’inflation devrait ralentir à partir du mois de Juillet à cause de l’effet de base lié à l’augmentation des prix à la fin de la première vague (un mouvement similaire a été constaté sur l’inflation européenne).</p>
