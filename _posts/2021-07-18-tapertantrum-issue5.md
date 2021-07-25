@@ -1,7 +1,7 @@
 ---
 title: 'Inflation historique aux Etats-Unis, et maintenant ?'
 date: 2021-07-18
-permalink: /posts/2021/07/tapertantrum/
+permalink: /posts/2021/07/tapertantrum/week5
 tags:
   - Prévision
   - Tapertantrum
