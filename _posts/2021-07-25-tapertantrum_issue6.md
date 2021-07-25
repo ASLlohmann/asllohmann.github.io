@@ -1,13 +1,11 @@
 ---
-title: 'Inflation historique aux Etats-Unis, et maintenant ?'
+title: 'La Niña  2, vers un nouveau choc des matières premières fin 2021 ?'
 date: 2021-07-18
 permalink: /posts/2021/07/tapertantrum/
 tags:
-  - Prévision
-  - Tapertantrum
-  - Powell
   - Inflation
-  - États-Unis
+  - Commodities
+  - Climat
 ---
 
 <p style="text-align: justify"> En septembre de 2020, les voyants climatiques sont passés au rouge et annonçaient de très fortes tensions sur les prix des matières premières agricoles. La raison ? un phènomène cyclique connu sous le nom de la Niña . La Niña est un phènomène climatique récurrente, la petite sœur du plus connu el Niño et consiste en une baisse anormale des températures de l’Océan Pacifique au niveau des tropiques, ce qui provoque de nombreux évenements climatiques atypiques. En effet, la Niña est associée à des sécheresses aux Etats-Unis et dans le Sud du Brésil/Nord de l’Argentine ainsi qu’à des précipitations anormales en Extrême-Orient et Océanie. De plus, la probabilité d’occurence d’épisodes climatiques extrêmes, qui peuvent être devastateurs pour les cultures, augmente sensiblement lors des années de la Niña.</p>
@@ -20,13 +18,19 @@ tags:
 
 <p style='text-align: justify;'> Minerai de Fer – Les précipitations au-dessus de la normale au debut de l'année en Australie (qui représente 37% de la production mondiale ) peuvent perturber l’activité dans une période qui est déja traditionnellement mauvaise car les pluies et la saison des cyclones provoquent regulièrement des fermetures de mines et de ports.</p>
 
-<p style='text-align: justify;'>En avril dernier, j’avais alerté sur le risque inflationniste aux Etats-Unis alors que l’enquête trimestrielle de la Federal Reserve (SPF-  Survey of Professional Forecasters) prévoyait une inflation de l’ordre de 2.2% en moyenne en 2021. De mon côté, j’estimais, avec un simple modèle autorégressif (ARIMA), un scénario moins optimiste que le consensus. Finalement, les données réelles se sont révélées pour le moment plus mauvaises que mon scénario le plus pessimiste calculé à partir d’une prévision naïve (stabilité de l’inflation jusqu’à la fin de l’année). (Graphique 1 – Prévision 1 « ARIMA » : scénario optimiste, Prévision 2 « naïve » : scénario pessimiste).</p>
+<p style='text-align: justify;'> Maïs– Les cultures devraient souffrir d’une chute de la productivité dûe à de possibles sécheresses aux Etats-Unis tandis que les récoltes du Brésil  sont à la fois impactées par la sécheresse (septembre - décembre) et par les retards induits dans la plantation de la seconde récolte (janvier -avril) qui exposent les champs de maïs à des coup de froid durant l’hiver (Juin – Septembre). </p>
 
+<p style='text-align: justify;'> Le Soja – Les cultures peuvent être impactée de la même manière que le Maïs même si la récolte aux Etats-Uni, généralement terminée en septembre, devrait etre relativement épargnée. Toutefois, cela ne serait pas le cas pour l’Argentine et le Brésil qui representent 44% de la production mondiale. </p>
 
-<p style='text-align: justify;'>Il était grand temps de mettre ces prévisions à jour. En utilisant une nouvelle fois un modèle ARIMA sur les données non ajustées, j’obtiens une inflation mensuelle moyenne de l’ordre de 0.247% sur la période 2021m07-2022 (un chiffre loin d’être extravagant). Dans un tel scénario (conservateur) l’inflation devrait ralentir à partir du mois de Juillet à cause de l’effet de base lié à l’augmentation des prix à la fin de la première vague (un mouvement similaire a été constaté sur l’inflation européenne).</p>
+<p style='text-align: justify;'> Café - Les effets sur la production mondiale peuvent être important à cause de la sécheresse au Brésil (1er producteur mondial) et des fortes pluies pouvant endommager les fêves chez les producteur asiatiques notamment le Vietnam (2 ème producteur mondial) et l’Indonesie (3ème producteur mondial).</p>
 
-<p style='text-align: justify;'>Néanmoins ce ralentissement sera de courte durée et nous devrions assister à une nouvelle accélération de l’IPC au plus tard partir du mois de Septembre pour terminer l’année à 5.83%. Il est bon de rappeler que le modèle ARIMA donne la tendance générale d’une série temporelle et peut servir à estimer l’inertie de l’inflation, mais ne saurait être interprété comme une prévision précise des taux d’inflation mensuels (même si ces modèles sont parfois meilleurs que les modèles structurels concernant les prévisions de court terme). Mon sentiment est que le « scénario ARIMA » doit être qualifié « d’optimiste » vu les pressions actuelles dans l’économie, la forte hausse des prix du pétrole, les sècheresses dramatiques et la hausse des prix de l’alimentation qui devrait en découler. Néanmoins ce résultat est encore supérieur aux prévisions des analystes dans la dernière enquête de la Federal Reserve (moyenne annuelle de 3%).</p>
+<p style='text-align: justify;'> Sucre – Les sécheresse au Brésil, qui produit 50% de la canne à sucre au niveau mondial peut provoquer de chutes importante de l’offre globale de sucre même si, au début de la Nina, les fortes températures tendent à augmenter la concentration en sucre de la canne et donc la productivité des cultures.Cet impact positif s’inverse à moyen-terme alors que la sécheresse porte préjudice au developpement de la récolte de l’année suivante .</p>
 
+<p style='text-align: justify;'> Pétrole -  La Niña favorise la formation d’ouragan dans le golfe du Mexique, ce qui tend provoquer des presssions ponctuelles sur les prix à cause des fermetures des platformes et rafineries de la région.</p>
+
+<p style='text-align: justify;'> L’intensité du phènomène de la Nina est mesuré par divers indicateurs dont l’ONI (Oceanic Nino Index) publié par la NOAA et qui calcule les écarts de températures par rapport à la normale dans l’Océan Pacifique (Graphique 2 - valeurs négatives : la Niña, valeurs positives: el Niño). Le 8 juillet dernier, la NOAA est passée en alerte « la Niña Watch » et estime à 66% la probabilité du retour du phènomène la fin de 2021 (Graphique 3). Si cette prévision se réalisait, on pourrait craindre une nouvelle pression sur les matières premières agricoles et industrielles alors que les stocks sont déjà deprimés du fait de la pandémie et de la Niña fin 2020/début 2021. </p>
+
+<p style='text-align: justify;'>  On voit ainsi la relative fragilité des prévisions « optimistes » qui considèrent que l’inflation va retomber très vite au niveau de l’objectif des banques centrales. En réalité, il est probable que nous vivions un nouveau choc des matières premières tout au long de 2022 et dont les effets se feront sentir au moins au long du semestre .</p>
 
 ##### Cette newsletter est publiée gratuitement mais il est possible de nous soutenir en nous laissant quelques pourboires (2€...) en cliquant sur ce lien sécurisé. __Votre soutien est important pour nous permettre d’inscrire ce projet dans le temps long.__ 
 
