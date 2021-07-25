@@ -24,9 +24,9 @@ tags:
 
 <p style='text-align: justify;'> <strong>Sucre - </strong>  Les possibles sécheresses au Brésil qui produit 50% de la canne à sucre au niveau mondial peuvent provoquer une chute importante de l’offre globale de sucre même si, au début de la Niña, les fortes températures tendent à augmenter la concentration en sucre de la canne et donc la productivité des plantations. Cet impact positif s’inverserait à moyen-terme alors que la sécheresse porte préjudice au developpement de la récolte de l’année suivante .</p>
 
-<p style='text-align: justify;'> <strong>Pétrole -</strong>  La Niña favorise la formation d’ouragan dans le golfe du Mexique, ce qui tend provoquer des pressions ponctuelles sur les prix à cause des fermetures des platformes et rafineries de la région.</p>
+<p style='text-align: justify;'> <strong>Pétrole -</strong>  La Niña favorise la formation d’ouragan dans le golfe du Mexique, ce qui tend provoquer des pressions ponctuelles sur les prix à cause des fermetures des plateformes et rafineries de la région.</p>
 
-<p style='text-align: justify;'> Le 8 juillet dernier, la NOAA est passée en alerte « la Niña Watch » et estime à 66% la probabilité du retour du phènomène la fin de 2021 (Graphique 2). Si cette prévision se réalisait, on pourrait craindre une nouvelle pression sur les prix des matières premières agricoles et industrielles alors que les stocks sont déjà deprimés du fait de la pandémie et de la Niña fin 2020/début 2021. </p>
+<p style='text-align: justify;'> Le 8 juillet dernier, la NOAA est passée en alerte « la Niña Watch » et estime désormais à 66% la probabilité du retour du phènomène la fin de 2021 (Graphique 2). Si cette prévision se réalisait, on pourrait craindre une nouvelle pression sur les prix des matières premières agricoles et industrielles alors que les stocks sont déjà deprimés du fait de la pandémie et de la Niña fin 2020/début 2021. </p>
 
 <strong> Graphique 2: Prévisions/Probabilité d'apparition de la Niña (NOOA) </strong>
 ![image](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/fig_noaa2.png?raw=true)
