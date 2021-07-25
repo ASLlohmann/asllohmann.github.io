@@ -10,7 +10,7 @@ tags:
 
 <p style="text-align: justify"> En septembre de 2020, les voyants climatiques sont passés au rouge et annonçaient de très fortes tensions sur les prix des matières premières agricoles. La raison ? un phènomène cyclique connu sous le nom de la Niña . La Niña est un phènomène climatique récurrent, la petite sœur du plus connu el Niño et consiste en une baisse anormale des températures de l’Océan Pacifique au niveau des tropiques, ce qui provoque de nombreux évenements climatiques atypiques. En effet, la Niña est associée à des sécheresses aux Etats-Unis et dans le Sud du Brésil/Nord de l’Argentine ainsi qu’à des précipitations anormales en Extrême-Orient et Océanie. De plus, la probabilité d’occurence d’épisodes climatiques extrêmes, qui peuvent être devastateurs pour les cultures, augmente sensiblement lors des années de la Niña.</p>
 
-![image](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/_posts/images/Graphique_1_issue6.svg)
+![image](https://raw.githubusercontent.com/ASLlohmann/asllohmann.github.io/master/_posts/images/Graphique_1_issue6.svg)
 
 <p style='text-align: justify;'>Les perturbations climatiques engendrées par la Niña sont des facteurs de hausses importantes pour les matières première agricoles (Graphique 1 – l’indice ONI represente les cycles la Niña /el Niño. Lire : un ONI inversé élevé est signe de la Niña, un ONI inversé bas est signal d’el Niño) et - dans une moindre mesure – industrielles parmi lesquelles on pourrait citer:</p>
 
