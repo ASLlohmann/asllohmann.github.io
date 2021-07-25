@@ -14,12 +14,11 @@ tags:
 
 <p style='text-align: justify;'>Les perturbations climatiques engendrées par la Niña sont des facteurs de hausses importantes pour les matières première agricoles (Graphique 1 – l’indice ONI represente les cycles la Niña /el Niño. Lire : un ONI inversé élevé est signe de la Niña, un ONI inversé bas est signal d’el Niño) et - dans une moindre mesure – industrielles parmi lesquelles on pourrait citer:</p>
 
-
 <p style='text-align: justify;'> <strong>Minerai de Fer –</strong>  Les précipitations au-dessus de la normale au debut de l'année en Australie (qui représente 37% de la production mondiale ) peuvent perturber l’activité dans une période qui est déja traditionnellement mauvaise car les pluies et la saison des cyclones provoquent regulièrement des fermetures de mines et de ports.</p>
 
-<p style='text-align: justify;'> <strong>Maïs–</strong> Les cultures devraient souffrir d’une chute de la productivité dûe à de possibles sécheresses aux Etats-Unis tandis que les récoltes du Brésil  sont à la fois impactées par la sécheresse (septembre - décembre) et par les retards induits dans la plantation de la seconde récolte (janvier -avril) qui exposent les champs de maïs à des coup de froid durant l’hiver (Juin – Septembre). </p>
+<p style='text-align: justify;'> <strong>Maïs –</strong> Les cultures devraient souffrir d’une chute de la productivité dûe à de possibles sécheresses aux Etats-Unis tandis que les récoltes du Brésil  sont à la fois impactées par la sécheresse (septembre - décembre) et par les retards induits dans la plantation de la seconde récolte (janvier -avril) qui exposent les champs de maïs à des coup de froid durant l’hiver (Juin – Septembre). </p>
 
-<p style='text-align: justify;'> <strong>Le Soja –</strong> Les cultures peuvent être impactée de la même manière que le Maïs même si la récolte aux Etats-Unis, généralement terminée en septembre, devrait être relativement épargnée. Toutefois, cela ne serait pas le cas pour l’Argentine et le Brésil qui representent 44% de la production mondiale. </p>
+<p style='text-align: justify;'> <strong>Le Soja – </strong> Les cultures peuvent être impactée de la même manière que le Maïs même si la récolte aux Etats-Unis, généralement terminée en septembre, devrait être relativement épargnée. Toutefois, cela ne serait pas le cas pour l’Argentine et le Brésil qui representent 44% de la production mondiale. </p>
 
 <p style='text-align: justify;'> <strong>Café - </strong> Les effets sur la production mondiale peuvent être importants à cause de la sécheresse au Brésil (1er producteur mondial) et des fortes pluies pouvant endommager les fêves chez les producteurs asiatiques notamment le Vietnam (2 ème producteur mondial) et l’Indonésie (3ème producteur mondial).</p>
 
