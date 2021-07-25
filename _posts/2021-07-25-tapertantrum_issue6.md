@@ -1,7 +1,7 @@
 ---
 title: 'La Niña  2, vers un nouveau choc des matières premières fin 2021 ?'
 date: 2021-07-18
-permalink: /posts/2021/07/tapertantrum/
+permalink: /posts/2021/07/tapertantrum/week6
 tags:
   - Inflation
   - Commodities
@@ -29,6 +29,10 @@ tags:
 <p style='text-align: justify;'> Pétrole -  La Niña favorise la formation d’ouragan dans le golfe du Mexique, ce qui tend provoquer des presssions ponctuelles sur les prix à cause des fermetures des platformes et rafineries de la région.</p>
 
 <p style='text-align: justify;'> L’intensité du phènomène de la Nina est mesuré par divers indicateurs dont l’ONI (Oceanic Nino Index) publié par la NOAA et qui calcule les écarts de températures par rapport à la normale dans l’Océan Pacifique (Graphique 2 - valeurs négatives : la Niña, valeurs positives: el Niño). Le 8 juillet dernier, la NOAA est passée en alerte « la Niña Watch » et estime à 66% la probabilité du retour du phènomène la fin de 2021 (Graphique 3). Si cette prévision se réalisait, on pourrait craindre une nouvelle pression sur les matières premières agricoles et industrielles alors que les stocks sont déjà deprimés du fait de la pandémie et de la Niña fin 2020/début 2021. </p>
+
+![image](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/_posts/images/Issue_6_la_Nina_Watch-ConvertImage.png)
+
+
 
 <p style='text-align: justify;'>  On voit ainsi la relative fragilité des prévisions « optimistes » qui considèrent que l’inflation va retomber très vite au niveau de l’objectif des banques centrales. En réalité, il est probable que nous vivions un nouveau choc des matières premières tout au long de 2022 et dont les effets se feront sentir au moins au long du semestre .</p>
 
