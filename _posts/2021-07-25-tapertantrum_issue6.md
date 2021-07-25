@@ -12,6 +12,9 @@ tags:
 
 <p style='text-align: justify;'>Les perturbations climatiques engendrées par la Niña sont des facteurs de hausses importantes pour les matières première agricoles (Graphique 1 – l’indice ONI represente les cycles la Niña /el Niño. Lire : un ONI inversé élevé est signe de la Niña, un ONI inversé bas est signal d’el Niño) et - dans une moindre mesure – industrielles parmi lesquelles on pourrait citer:</p>
 
+![image](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/_posts/images/Graphique_1_issue6.svg)
+
+
 <p style='text-align: justify;'>Et maintenant ? Il est probable que la hausse des matières premières continue d’être repassée dans les prix au consommateur tout au long de 2021 tandis que la situation de sècheresse intense dans l’ouest américain devrait limiter le ralentissement des prix de l’alimentation et de l’énergie. Fin 2021, le risque d’un nouvel événement climatique du type « la Niña»  (probabilité de 66% d’après la NOAA - agence nationale du climat américain) devrait, s’il se concrétisait, exercer une pression à la hausse sur les matières premières agricoles et sur le minerai de fer au moins au long des premiers mois de 2022.</p>
 
 <p style='text-align: justify;'>De plus, il est important de mentionner que, contrairement à l’Union européenne, le cout du logement représente aux USA une partie importante de l’IPC (31.37%). Dans un contexte de forte hausse des prix de l’immobilier, le logement devrait  être un support pour l’indice des prix au consommateur même une fois que le choc des matières premières sera terminé et participera d’un « effet de second tour » de l’inflation.</p>
