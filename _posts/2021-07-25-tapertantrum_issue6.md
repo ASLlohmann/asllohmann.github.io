@@ -18,7 +18,7 @@ tags:
 
 <p style='text-align: justify;'> <strong>Maïs –</strong> Les cultures devraient souffrir d’une chute de la productivité dûe à de possibles sécheresses aux Etats-Unis tandis que les récoltes du Brésil  sont à la fois impactées par la sécheresse (septembre - décembre) et par les retards induits dans la plantation de la seconde récolte (janvier -avril) qui exposent les champs de maïs à des coup de froid durant l’hiver (Juin – Septembre). </p>
 
-<p style='text-align: justify;'> <strong>Le Soja – </strong> Les cultures peuvent être impactée de la même manière que le Maïs même si la récolte aux Etats-Unis, généralement terminée en septembre, devrait être relativement épargnée. Toutefois, cela ne serait pas le cas pour l’Argentine et le Brésil qui representent 44% de la production mondiale. </p>
+<p style='text-align: justify;'> <strong>Soja – </strong> Les cultures peuvent être impactée de la même manière que le maïs même si la récolte aux Etats-Unis, généralement terminée en septembre, devrait être relativement épargnée. Toutefois, cela ne serait pas le cas pour l’Argentine et le Brésil qui representent 44% de la production mondiale. </p>
 
 <p style='text-align: justify;'> <strong>Café - </strong> Les effets sur la production mondiale peuvent être importants à cause de la sécheresse au Brésil (1er producteur mondial) et des fortes pluies pouvant endommager les fêves chez les producteurs asiatiques notamment le Vietnam (2ème producteur mondial) et l’Indonésie (3ème producteur mondial).</p>
 
