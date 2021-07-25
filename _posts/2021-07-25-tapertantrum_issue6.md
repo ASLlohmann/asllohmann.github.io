@@ -28,7 +28,7 @@ tags:
 
 <p style='text-align: justify;'> Le 8 juillet dernier, la NOAA est passée en alerte « la Niña Watch » et estime désormais à 66% la probabilité du retour du phènomène la fin de 2021 (Graphique 2). Si cette prévision se réalisait, on pourrait craindre une nouvelle pression sur les prix des matières premières agricoles et industrielles alors que les stocks sont déjà deprimés du fait de la pandémie et de la Niña fin 2020/début 2021. </p>
 
-<strong> Graphique 2: Prévisions/Probabilité d'apparition de la Niña (NOOA) </strong>
+<strong> Graphique 2: Prévisions/Probabilité d'apparition de la Niña (NOAA) </strong>
 ![image](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/fig_noaa2.png?raw=true)
 
 <p style='text-align: justify;'>  On voit ainsi la relative fragilité des prévisions « optimistes » qui considèrent que l’inflation va retomber très vite au niveau de l’objectif des banques centrales. En réalité, il est probable que nous vivions un nouveau choc des matières premières tout au long de 2022 et dont les effets se feront sentir au moins au long du semestre .</p>
