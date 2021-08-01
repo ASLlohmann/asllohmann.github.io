@@ -1,7 +1,7 @@
 ---
-title: 'Inflation en Zone Euro : Europe du Nord x Europe du Sud'
+title: 'Inflation en Zone Euro : Europe du Nord versus Europe du Sud'
 date: 2021-08-01
-permalink: /posts/2021/07/tapertantrum/week7
+permalink: /posts/2021/08/tapertantrum/week7
 tags:
   - Inflation
   - Zone Euro
