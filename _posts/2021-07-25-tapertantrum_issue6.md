@@ -1,6 +1,6 @@
 ---
 title: 'La Niña  2, vers un nouveau choc des matières premières fin 2021 ?'
-date: 2021-07-18
+date: 2021-07-25
 permalink: /posts/2021/07/tapertantrum/week6
 tags:
   - Inflation
