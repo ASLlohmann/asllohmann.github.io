@@ -1,13 +1,11 @@
 ---
-title: 'Choc asymétrique d'inflation en Zone Euro: où en est-on?'
+title: 'Inflation en Zone Euro : Europe du Nord x Europe du Sud'
 date: 2021-08-01
-permalink: /posts/2021/07/tapertantrum/week7
+permalink: /posts/2021/07/tapertantrum/week6
 tags:
   - Inflation
-  - Allemagne
   - Zone Euro
-  - Espagne
-  - Italie
+  - Allemagne
 ---
 
 <p style="text-align: justify"> Depuis le début de l’année, l’accélération des taux d’inflation en Zone Euro a été très inégale selon les pays. Dans le contexte d’une Union Monétaire qui prive les Etats de la possibilité d’ajuster leur taux de change afin de remédier aux déséquilibres de compétitivité, il est important de ne pas uniquement se focaliser sur l’inflation globale en Zone Euro mais également de constater les divergences d’inflation entre certains pays clés de l’Europe du Nord et de l’Europe du Sud. Le Graphique 1 représente une sélection représentative des taux d’inflation en glissement annuel (mois de juillet) avec des hausses de 2.2% (Zone Euro), 3.1% (Allemagne), 2.9% (Espagne), 1.6% (France) et 0.9% (Italie).</p>
