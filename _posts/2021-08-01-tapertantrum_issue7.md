@@ -1,5 +1,5 @@
 ---
-title: 'Inflation en Zone Euro : Europe du Nord versus Europe du Sud'
+title: 'Inflation en Zone Euro : Europe du Nord versus Europe du Sud - 1ère Partie'
 date: 2021-08-01
 permalink: /posts/2021/08/tapertantrum/week7
 tags:
@@ -25,6 +25,8 @@ tags:
 <p style='text-align: justify;'> Le fait qu’une bonne partie du choc inflationniste se concentre dans le pays qui dipose d’un important excédent commercial tend à relativiser l’impact négatif de la crise d’inflation en terme de divergence économiques entre les pays de la zone euro. En effet, si ce mouvement continuait, on assisterait à une perte de compétitivité de l’Allemagne par rapport à l’Europe du Sud, ce qui permettrait de réduire les déséquilibre internes au sein de la zone euro. </p>
 
 <p style='text-align: justify;'> A contrario, la concentration du choc inflationniste en Allemagne risque d’exercer une pression importante sur la BCE  pour commencer à normaliser sa politique monétaire vu le poids dont la Bundesbank dispose au sein du Système Européen de Banques Centrales (tout en gardant à l’esprit que si le taux d’inflation de référence de la Banque centrale Européenne est de 3.1% pour l’Allemagne, le taux de l’Institut Statistique allemand est déjà à 3.8%).</p>
+
+<p style='text-align: justify;'> La newsletter de la semaine prochaine traitera du même sujet mais en utilisant les indices d'inflation au producteur industriel (PPI) qui sont des indicateurs moins connus mais plus pertinents lorsqu'il s'agit de mesurer les divergences en termes de compétitivité. </p>
 
 ##### Cette newsletter est publiée gratuitement mais il est possible de nous soutenir en nous laissant quelques pourboires (2€...) en cliquant sur ce lien sécurisé. __Votre soutien est important pour nous permettre d’inscrire ce projet dans le temps long.__ 
 
