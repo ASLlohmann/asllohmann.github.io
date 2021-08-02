@@ -22,9 +22,11 @@ redirect_from:
 
 **Alexandre Lohmann**
 
-<strong> Contact: </strong>
-email: alexandre-lohmann@hotmail.fr
-What's App: +55 11 93423 2010
+<p style="text-align: justify"><strong> Contact: </strong></p>
+
+<p style="text-align: justify">email: alexandre-lohmann@hotmail.fr</p>
+
+<p style="text-align: justify">What's App: +55 11 93423 2010</p>
  
 
 
