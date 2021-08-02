@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<strong> Top 3 des prévisionnistes pour l'année 2020 - catégorie inflation générale des prix à moyen et long terme. </strong>
+<strong> Top 3 des prévisionnistes pour l'année 2020 - catégorie inflation générale des prix à moyen et long terme (Prix de la banque Centrale du Brésil) </strong>
 
 ![Image](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/_pages/Top5_1.png?raw=true)
 
