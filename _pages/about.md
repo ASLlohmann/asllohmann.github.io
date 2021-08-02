@@ -16,11 +16,15 @@ redirect_from:
 
 <p style="text-align: justify"> La newsletter est gratuite mais vous pouvez nous soutenir en nous versant quelques « cafés » en cliquant sur ce lien.</p>
 
-
 [![Buy me a coffee](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/bmc.jpeg?raw=true)](https://www.buymeacoffee.com/AlexSebLohmann)
 <p style="text-align: justify">  Un remerciement spécial à Ana Paula Tavares da Fonseca son aide concernant le code/programmation.</p>
 
 
 **Alexandre Lohmann**
+
+<strong> Contact: </strong>
+email: alexandre-lohmann@hotmail.fr
+What's App: +55 11 93423 2010
+ 
 
 
