@@ -1,5 +1,5 @@
 ---
-title: 'Inflation en Zone Euro : Europe du Nord versus Europe du Sud - 2ère Partie'
+title: 'Inflation en Zone Euro : Europe du Nord versus Europe du Sud - 2ème Partie'
 date: 2021-08-01
 permalink: /posts/2021/08/tapertantrum/week8
 tags:
